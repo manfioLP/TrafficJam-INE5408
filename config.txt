@@ -1,0 +1,6 @@
+# Informe, em ordem, um valor inteiro por linha amigo! Vai :
+# - Tempo (segundos) de execuçao dessa simulaçao maneirissima.
+# - Tempo (segundos) que uma sinaleira (aqui e floripa!) vai ficar aberto (verdinho po!).
+Fim dos comentarios
+20000
+100

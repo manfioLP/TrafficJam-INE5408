@@ -1,0 +1,3 @@
+/home/labtic/CLionProjects/TrafficJam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/labtic/CLionProjects/TrafficJam/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/labtic/CLionProjects/TrafficJam/cmake-build-debug/CMakeFiles/TrafficJam.dir
